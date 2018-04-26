@@ -13,10 +13,6 @@ public class TilesDriver {
      * outputs game instructions
      */
     private static void outputInitialInfo() {
-        System.out.println("Author Code: Icon");
-        System.out.println("Class: CS 342, Fall 2016");
-        System.out.println("Program: #3, 8 Tiles\n");
-
         System.out.println("Welcome to the 8-tiles puzzle."
                 + "\nPlace the tiles in ascending numerical order.  For each  "
                 + "\nmove enter the piece to be moved into the blank square, "
